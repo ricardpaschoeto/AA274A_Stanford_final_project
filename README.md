@@ -4,7 +4,13 @@ The final project will be based on Autonomous Food Delivery! You will be expecte
 
 ![City](/pictures/city.png)
 
+## Project Description
 
+The robot control follows the Finite State Machine bellow:
+
+![FSM](/pictures/FSM.png)
+
+Besides the basic robot control - Explore the town to find different food vendors avoiding obstacles and pick up carry out orders for delivery - we implement extensions
 
 ## Installation
 
