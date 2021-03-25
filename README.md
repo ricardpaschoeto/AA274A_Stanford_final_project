@@ -8,6 +8,8 @@ To summarize the robot moviment control, bellow we can see the Homeworks impleme
 
 ![Process](/pictures/robot.png)
 
+For more information, visit: https://github.com/ricardpaschoeto/Stanford_Robotics_Homeworks
+
 The Mission Outline:
 
 1.Explore
@@ -38,8 +40,6 @@ The Baseline for the project is listed bellow:
 The robot control follows the Finite State Machine bellow:
 
 ![FSM](/pictures/FSM.png)
-
-For more information, visit: https://github.com/ricardpaschoeto/Stanford_Robotics_Homeworks
 
 Beyond of the baseline, we implement extensions:
 
