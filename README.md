@@ -39,6 +39,8 @@ The robot control follows the Finite State Machine bellow:
 
 ![FSM](/pictures/FSM.png)
 
+For more information, visit: https://github.com/ricardpaschoeto/Stanford_Robotics_Homeworks
+
 Beyond of the baseline, we implement extensions:
 
  * Stop at stop signals
