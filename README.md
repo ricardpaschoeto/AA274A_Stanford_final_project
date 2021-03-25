@@ -37,7 +37,12 @@ The robot control follows the Finite State Machine bellow:
 
 Beyond of the baseline, we implement extensions:
 
- *
+ * Autonomously explore the map
+  The robot will explore the map through the vendors machines in autonomous mode and after will proceed the deliver task. 
+ * Recognize + avoid hazards on the ground
+  The robot will be capable to recognize hazards, using the camera and image recognition, like – puddles and holes – and avoid them.
+ * Recognize + avoid moving hazards
+  The robot will be capable to recognize moving hazards, using the camera and image recognition, like – animals and other robots, vehicles – and avoid them.
 
 ## Installation
 
