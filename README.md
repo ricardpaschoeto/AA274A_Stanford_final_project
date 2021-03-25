@@ -8,7 +8,7 @@ To summarize the robot moviment control, bellow we can see the Homeworks impleme
 
 ![Process](/pictures/robot.png)
 
-The mainly Mission:
+The Mission Outline:
 
 1.Explore
   * Navigate the city without colliding into obstacles
@@ -25,11 +25,19 @@ The mainly Mission:
 
 ## Project Description
 
+The Baseline for the project is listed bellow:
+
+* Human operated waypoint following for exploration.
+* Logging food locations through TF frames / broadcasting on a topic.
+* Autonomous navigation to revisit vendors and drive to delivery location without running into fences.
+
 The robot control follows the Finite State Machine bellow:
 
 ![FSM](/pictures/FSM.png)
 
-Besides the basic robot control - Explore the town to find different food vendors avoiding obstacles and pick up carry out orders for delivery - we implement extensions
+Beyond of the baseline, we implement extensions:
+
+ *
 
 ## Installation
 
