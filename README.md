@@ -4,6 +4,10 @@ The final project will be based on Autonomous Food Delivery! You will be expecte
 
 ![City](/pictures/city.png)
 
+To summarize the robot moviment control, bellow we can see the Homeworks implemented along the course and working together to create the robot system control:
+
+![Process](/pictures/robot.png)
+
 ## Project Description
 
 The robot control follows the Finite State Machine bellow:
