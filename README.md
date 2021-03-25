@@ -57,4 +57,15 @@ Beyond of the baseline, we implement extensions:
 
 ## Authors and acknowledgment
 
+This project was built by: Mason Murray-Cooper, Brice Pridgen, Toktam Mohammadnejad, Ricardo Luiz Moreira Paschoeto. The project was a result of the graduate course "Principles of Robot Autonomy I" from Stanford University. 
+
 ## Project status
+
+For suggestions to advance the robot behavior some extension can be added:
+
+* A filter that uses the pointcloud to track an object moving around the turtlebot
+* Identifies a "puddle" on the ground and moves around it
+* Provide an accurate distance estimate of a detected object using pointcloud data
+* Accurate position estimate of detected objects
+* Improve upon any of the existing asl turtlebot functionality
+* Implement a fancy cool algorithm you heard about
