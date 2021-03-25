@@ -25,7 +25,7 @@ The Mission Outline:
 
 ## Project Description
 
-The robot will navigate on the map and searching for three vendors – Broccoli, Pizza, Hot-Dog. We can operate the robot manually or set a list containing vendors' sequence to visit sequentially; for this, we worked on the A* algorithm to solve multiple sequential paths.
+The robot will navigate on the map and searching for three vendors – Broccoli, Pizza, Hot-Dog. We can operate the robot manually or set a list containing vendors' sequence to visit sequentially; for this, we worked on the A* algorithm to solve multiple sequential paths. Bellow we show up the A* Algorithm exaples:
 
 ![AStar01](/pictures/a_star01.png)              ![AStar01](/pictures/a_star02.png)
 
