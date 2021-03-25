@@ -4,6 +4,8 @@ The final project will be based on Autonomous Food Delivery! You will be expecte
 
 ![City](/pictures/city.png)
 
+## Project Description
+
 To summarize the robot moviment control, bellow we can see the Homeworks implemented along the course and working together to create the robot system control:
 
 ![Process](/pictures/robot.png)
@@ -24,8 +26,6 @@ The Mission Outline:
       * ROS pub/sub
   * Autonomously drive through the city to pick up desired items and deliver them to the goal
       * Planning + Control
-
-## Project Description
 
 The robot will navigate on the map and searching for three vendors – Broccoli, Pizza, Hot-Dog. We can operate the robot manually or set a list containing vendors' sequence to visit sequentially; for this, we worked on the A* algorithm to solve multiple sequential paths. Bellow we show up the A* Algorithm exaples:
 
