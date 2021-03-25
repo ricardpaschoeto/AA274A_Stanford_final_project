@@ -57,7 +57,7 @@ Beyond of the baseline, we implement extensions:
 
 ## Authors and acknowledgment
 
-This project was built by: Mason Murray-Cooper, Brice Pridgen, Toktam Mohammadnejad, Ricardo Luiz Moreira Paschoeto. The project was a result of the graduate course "Principles of Robot Autonomy I" from Stanford University. 
+This project was built by: Mason Murray-Cooper, Brice Pridgen, Toktam Mohammadnejad, Ricardo Luiz Moreira Paschoeto. The project was the result of the graduate course "Principles of Robot Autonomy I" from Stanford University. 
 
 ## Project status
 
