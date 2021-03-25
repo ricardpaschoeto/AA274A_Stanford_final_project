@@ -25,6 +25,9 @@ The Mission Outline:
 
 ## Project Description
 
+The robot will navigate on the map and searching for three vendors – Broccoli, Pizza, Hot-Dog. We can operate the robot manually or set a list containing vendors' sequence to visit sequentially; for this, we worked on the A* algorithm to solve multiple sequential paths.
+
+
 The Baseline for the project is listed bellow:
 
 * Human operated waypoint following for exploration.
@@ -37,18 +40,19 @@ The robot control follows the Finite State Machine bellow:
 
 Beyond of the baseline, we implement extensions:
 
- * Autonomously explore the map
-  The robot will explore the map through the vendors machines in autonomous mode and after will proceed the deliver task. 
- * Recognize + avoid hazards on the ground
-  The robot will be capable to recognize hazards, using the camera and image recognition, like – puddles and holes – and avoid them.
- * Recognize + avoid moving hazards
-  The robot will be capable to recognize moving hazards, using the camera and image recognition, like – animals and other robots, vehicles – and avoid them.
+ * Stop at stop signals
+  The world will have at least three stop signs. When the robot comes to a stop sign, it will stop for five seconds and then continue on its planned path. 
+ * Plan an optimal path
+  The robot will plan the shortest time route between multiple vendors, accounting for the time to stop at stop signs.
+ * Recognize a Dog 
+  The robot will be on the lookout for Dog around the world and doing something fun.
 
 ## Installation
 
 * Ubuntu 16.04 - https://ubuntu.com/download
 * ROS Noetic   - http://wiki.ros.org/noetic/Installation/Ubuntu
 * pyton2.7     - https://www.python.org/downloads/release/python-2716/
+* Rviz         - http://wiki.ros.org/rviz
 
 ## Authors and acknowledgment
 
