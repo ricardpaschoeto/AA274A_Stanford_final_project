@@ -8,6 +8,11 @@ To summarize the robot moviment control, bellow we can see the Homeworks impleme
 
 ![Process](/pictures/robot.png)
 
+The mainly Mission:
+
+1.Explore
+  #
+
 ## Project Description
 
 The robot control follows the Finite State Machine bellow:
