@@ -11,7 +11,17 @@ To summarize the robot moviment control, bellow we can see the Homeworks impleme
 The mainly Mission:
 
 1.Explore
-  #
+  * Navigate the city without colliding into obstacles
+      * SLAM
+      * Planning + Control
+  * Record locations of food vendors
+      * Object Detection
+      * State Estimation
+2.Deliver
+  * Receive and process requests for delivery
+      * ROS pub/sub
+  * Autonomously drive through the city to pick up desired items and deliver them to the goal
+      * Planning + Control
 
 ## Project Description
 
